@@ -8,12 +8,14 @@ The purpose of this project is to be able to display UFO sightings around the wo
 The site is intended to  provide the ability to review all available data on UFO sightings.  Simply from loading the page, you will have access to all the data.  In addition, you may wish to filter the data for your convenience.
 ![enter image description here](https://raw.githubusercontent.com/Andres-T-Hernandez/UFOs/main/Resources/Image_1.png)
 ### Filtering
-The filters for the data are on the left side of the website.  You may filter by city, state, country, and date.  Filtering occurs automatically upon entering the correctly formatted filter, which is previewed within the filter
+The filters for the data are on the left side of the website.  You may filter by city, state, country, and date.  Filtering occurs automatically upon entering the correctly formatted filter, which is previewed within the filter.
 ![\[img\]](https://raw.githubusercontent.com/Andres-T-Hernandez/UFOs/main/Resources/Image_2.png)
+
 Example - Filtering light shape sightings in California
 
  1. Click on the Enter the State filter under filter search and type ca.
  2. Click on the Enter a Shape filter and type light
+
  ![\[img\]](https://raw.githubusercontent.com/Andres-T-Hernandez/UFOs/main/Resources/Image_3.png)
  3. Push Enter or click away
  
