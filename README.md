@@ -17,6 +17,7 @@ Example - Filtering light shape sightings in California
  2. Click on the Enter a Shape filter and type light
 
  ![\[img\]](https://raw.githubusercontent.com/Andres-T-Hernandez/UFOs/main/Resources/Image_3.png)
+
  3. Push Enter or click away
  
  You should now see your filtered data on display
